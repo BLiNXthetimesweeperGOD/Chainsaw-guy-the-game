@@ -16,7 +16,7 @@ pip install pygame
 # How to run
 Double click GAME_MANAGER.py
 
-Do not click the other scripts! They'll spoil later parts of the game and you won't get the full experience.
+Do not click the other scripts! They'll spoil later parts of the story and you won't get the full experience.
 
 # Screenshots
 
