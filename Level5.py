@@ -79,7 +79,7 @@ def Level5():
             if collectible.rect.x in range(0, 800):
                 visItems+=1
 
-        if random.random() < 0.10 and items < 15 and visItems < 2:
+        if random.random() < 0.05 and items < 5 and visItems < 2:
             new_collectible = Collectible()
             collectibles.add(new_collectible)
             
@@ -115,7 +115,7 @@ def Level5():
 
         pygame.display.flip()
         clock.tick(60)
-        if score >= 800:
+        if score >= 100:
             pygame.display.quit()
             break
 Level5()
