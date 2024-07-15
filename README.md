@@ -1,7 +1,7 @@
 # Chainsaw-guy-the-game
 Chainsaw guy is mad that a tree dropped an acorn on his head so he must chop down all the trees in the universe out of revenge
 
-This game was made with PyGame. You need PyGame to run it, so run the following command:
+This game was made with PyGame. You need PyGame to run it, so run the following command in CMD first:
 
 pip install pygame
 
