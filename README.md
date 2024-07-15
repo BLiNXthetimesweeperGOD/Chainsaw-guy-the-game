@@ -18,6 +18,11 @@ Double click GAME_MANAGER.py
 
 Do not click the other scripts! They'll spoil later parts of the story and you won't get the full experience.
 
+# How to play
+- Press enter to start the game after the intro cutscene
+- Hold right, pressing enter on cutscenes
+- You can go left, but going right is better
+
 # Screenshots
 
 ![ChainsawGuy](https://github.com/user-attachments/assets/e0049ca0-164f-4e57-826c-6cdab0e55173)
