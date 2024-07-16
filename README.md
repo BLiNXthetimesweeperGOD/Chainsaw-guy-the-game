@@ -26,3 +26,8 @@ Do not click the other scripts! They'll spoil later parts of the story and you w
 # Screenshots
 
 ![ChainsawGuy](https://github.com/user-attachments/assets/e0049ca0-164f-4e57-826c-6cdab0e55173)
+
+# Additional information
+- This game is completely free and open source. Feel free to make any modifications to it and redistribute your modifications so long as they aren't malicious and so long as they don't add monetary value to the base game itself.
+- I do not own the rights to the music used in this game. I just remixed it. Check Music/Sources.txt for more information.
+- This game was made in under 2 days, so expect some jankiness in how it works.
